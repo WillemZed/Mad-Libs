@@ -1,0 +1,50 @@
+body {
+    background-color: grey;
+}
+
+.invoer {
+    float: right;
+    margin-right: 40px;
+}
+
+.send {
+    float: right;
+    margin-right: 100px;
+}
+
+#redbox {
+    background-color: rgb(201, 52, 52);
+    width: 750px;
+    margin-left: 350px;
+    color: white;
+    height: 50px;
+    text-align: left
+}
+
+#whitebox {
+    width: 750px;
+    background-color: white;
+    margin-left: 350px;
+    padding-top: 20px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+}
+.paniek-link {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.onkunde-link {
+    margin-left: 30px;
+}
+
+.logo {
+    width: 500px;
+    margin-left: 500px;
+}
